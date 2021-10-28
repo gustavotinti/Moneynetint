@@ -1,3 +1,5 @@
-# Donation
-Sphinx
-https://www.paypal.com/donate?hosted_button_id=R4H8FRNMHVHJC
+#bankodl
+#svalueplusuk
+#iban<00000000000000002K0001>
+#swift<000234444cecekkooka>
+#swiss<true>
